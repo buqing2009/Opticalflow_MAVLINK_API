@@ -32,4 +32,5 @@ build/
 *.xml
 *.kdev4
 .kdev4/
+bin/
 
